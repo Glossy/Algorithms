@@ -32,16 +32,16 @@ Algorithms coursework
 - [ShortestPath](#ShortestPath)
 
 ## Pratice 3
-- [0-1 KnapSack Problem](#0-1 KnapSack Problem)
-- [Fractional Knapsack Problem](#[Fractional Knapsack Problem])
-- [Scheduling Problem](#Scheduling Problem)
-- [Bin Packing](#Bin Packing)
+- [0-1 KnapSack Problem](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice3)/Pratice3/src)
+- [Fractional Knapsack Problem](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice3)/Pratice3/src)
+- [Scheduling Problem](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice3)/Pratice3/src)
+- [Bin Packing](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice3)/Pratice3/src)
 
 ## Pratice 4
-- [Bellman-Ford Algorithm](#Bellman-Ford Algorithm)
-- [All-pairs Shortest Path](#All-pairs Shortest Path)
-- [8-Queen Problem (Back Tracking)](#8-Queen Problem (Back Tracking))
-- [0-1 Knapsack Problem (Back Tracking)](#0-1 Knapsack Problem (Back Tracking))
+- [Bellman-Ford Algorithm](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice4))
+- [All-pairs Shortest Path](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice4))
+- [8-Queen Problem (Back Tracking)](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice4))
+- [0-1 Knapsack Problem (Back Tracking)](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice4)))
 
 ### PriorityQueue
 ---
