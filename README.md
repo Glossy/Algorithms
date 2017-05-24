@@ -41,7 +41,7 @@ Algorithms coursework
 - [Bellman-Ford Algorithm](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice4))
 - [All-pairs Shortest Path](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice4))
 - [8-Queen Problem (Back Tracking)](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice4))
-- [0-1 Knapsack Problem (Back Tracking)](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice4)))
+- [0-1 Knapsack Problem (Back Tracking)](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice4))
 
 ### PriorityQueue
 ---
