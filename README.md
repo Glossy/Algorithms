@@ -105,33 +105,33 @@ Algorithms coursework
 0-1 KnapSack Problem
 ---
 - [0-1 KnapSack Problem](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice3)/Pratice3/src)
-    -Instance : weight capacity is 100
-	-item	weights	values
-1	-A	50	200
-	-B	30	180
-	-C	45	225
-	-D	25	200
-	-E	5	50
+    - Instance : weight capacity is 100
+	- item	weights	values
+	- A	50	200
+	- B	30	180
+	- C	45	225
+	- D	25	200
+	- E	5	50
 
 
 Fractional Knapsack Problem
 ---
 - [Fractional Knapsack Problem](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice3)/Pratice3/src)
-    -Instance : Instance: same as 0 - 1 KnapSack Problem
+    - Instance : Instance: same as 0 - 1 KnapSack Problem
 
 
 Scheduling Problem
 ---
 - [Scheduling Problem](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice3)/Pratice3/src)
-    -A simple scheduling problem. We are given jobs j1, j2… jn, all with known running time t1, t2… tn, respectively. We have a single processor. What is the best way to schedule these jobs in order to minimize the average completion time. Assume that it is a non-preemptive scheduling: once a job is started, it must run to completion.
+    - A simple scheduling problem. We are given jobs j1, j2… jn, all with known running time t1, t2… tn, respectively. We have a single processor. What is the best way to schedule these jobs in order to minimize the average completion time. Assume that it is a non-preemptive scheduling: once a job is started, it must run to completion.
 	- The following are some instances:(j1, j2, j3, j4) : (15，8，3，10)
 
 
 Bin Packing
 ---
 - [Bin Packing](https://github.com/Glossy/Algorithms/tree/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice3)/Pratice3/src)
-    -We have a number of bins each with a capacity of 1, and we have a set of objects all with different seizes, s1,s2,…,sn between 0 and 1. What is the fewest number of bins that would be needed to store all of the objects?
-	-Instance: 0.5,0.7,0.3,0.9,0.6,0.8,0.1,0.4,0.2,0.5
+    - We have a number of bins each with a capacity of 1, and we have a set of objects all with different seizes, s1,s2,…,sn between 0 and 1. What is the fewest number of bins that would be needed to store all of the objects?
+	- Instance: 0.5,0.7,0.3,0.9,0.6,0.8,0.1,0.4,0.2,0.5
 
 
 Bellman-Ford Algorithm
