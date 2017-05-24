@@ -19,11 +19,13 @@ Algorithms coursework
 
 # Table of contents
 
-## Pratice 1- [PriorityQueue](#PriorityQueue)
+## Pratice 1
+- [PriorityQueue](#PriorityQueue)
 - [QuickSort](#QuickSort)
 - [SearchTwoSortedList](#SearchTwoSortedList)
 
-## Pratice 2- [MatrixChain](#MatrixChain)
+## Pratice 2
+- [MatrixChain](#MatrixChain)
 - [LongestCommonSubsequence](#LongestCommonSubsequence)
 - [LongestCommonSubstring](#LongestCommonSubstring)
 - [MaxSum](#MaxSum)
@@ -87,6 +89,19 @@ Algorithms coursework
     - Shortest path in multistage graphs. Find the shortest path from 0 to 15 for the following graph.
 	    - A multistage graph is a graph (1) G=(V,E) with V partitioned into K >= 2 disjoint subsets such that if (a,b) is in E, then a is in Vi , and b is in Vi+1 for some subsets in the partition; and (2) | V1 | = | VK | = 1.
 - ![image](https://github.com/Glossy/Algorithms/blob/master/14130130231_%E5%90%B4%E5%A4%A9%E6%88%90(Pratice4)/shortest.png)
+
+## Pratice 3
+- [0-1 KnapSack Problem](#0-1 KnapSack Problem)
+- [Fractional KnapsackProblem](#[Fractional Knapsack Problem])
+- [Scheduling Problem](#Scheduling Problem)
+- [Bin Packing](#Bin Packing)
+
+## Pratice 4
+- [Bellman-Ford Algorithm ](#Bellman-Ford Algorithm)
+- [All-pairs Shortest Path](#All-pairs Shortest Path)
+- [8-Queen Problem (Back Tracking)](#8-Queen Problem (Back Tracking))
+- [0-1 Knapsack Problem (Back Tracking)](#0-1 Knapsack Problem (Back Tracking))
+
 
 ## Back to [Glossy](https://github.com/Glossy)
 
