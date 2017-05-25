@@ -3,7 +3,7 @@ Algorithms coursework
 
 <p align="center">
   <a href="https://github.com/Glossy">
-    <img src="https://avatars1.githubusercontent.com/u/20094589?v=3&s=460" width=72 height=72>
+    <img src="https://avatars1.githubusercontent.com/u/20094589?v=3&s=400" width=72 height=72>
   </a>
 
   <h3 align="center">Algorithm</h3>
